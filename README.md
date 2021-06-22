@@ -7,6 +7,9 @@
 # Installing gql package:
 conda install -c conda-forge/label/gcc7 gql
 
+# Check the work flow here:
+   [main.ipynb](https://github.com/Srujan711/FalconX_Assignment/blob/main/main.ipynb)
+
 # Abstract:
 1. Data Preparation:
     * Selected WETH currency for analysis(BUY & SELL)
@@ -19,5 +22,5 @@ conda install -c conda-forge/label/gcc7 gql
     * Plotted time series view of total Volume in USD for different quoted currencies over time
 
 # References:
-   [https://messari.io/article/retrieving-uniswap-trades-using-the-graph](https://messari.io/article/retrieving-uniswap-trades-using-the-graph)
-   [https://thegraph.com/explorer/subgraph/uniswap/uniswap-v2](https://thegraph.com/explorer/subgraph/uniswap/uniswap-v2)
+   * [https://messari.io/article/retrieving-uniswap-trades-using-the-graph](https://messari.io/article/retrieving-uniswap-trades-using-the-graph)
+   * [https://thegraph.com/explorer/subgraph/uniswap/uniswap-v2](https://thegraph.com/explorer/subgraph/uniswap/uniswap-v2)
